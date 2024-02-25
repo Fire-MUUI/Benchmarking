@@ -1,7 +1,7 @@
 # **BENCHMARKING** 
-Benchmarking is a lightweight, accurate, and novel benchmark software that is mostly presented in command line format and provides English and Chinese versions   
-##__install__##  
-___Strongly recommended to be installed in the root directory of the disk___  
+Benchmarking is a lightweight, accurate, and novel benchmark software that is mostly presented in command line format and provides English and Chinese versions    
+## __install__ 
+___Strongly recommended to be installed in the root directory of the disk___   
 ## __run__ 
 Enter the corresponding command at the command line according to the prompts:  
 * Start CPU benchmark test ：
